@@ -18,7 +18,6 @@ Profundizar y ampliar los conocimientos en HTML, integrando contenido multimedia
 
 - HTML  
 - Multimedia (audio, video, imágenes)  
-- CSS (si aplicaste estilos)
 
 ## Desarrollador
 
